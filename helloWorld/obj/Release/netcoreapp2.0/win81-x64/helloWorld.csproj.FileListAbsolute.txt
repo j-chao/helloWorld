@@ -1,0 +1,13 @@
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/hostpolicy.dll
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/hostfxr.dll
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.exe
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.deps.json
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.runtimeconfig.json
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.runtimeconfig.dev.json
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.dll
+/Users/jchao100/Projects/helloWorld/helloWorld/bin/Release/netcoreapp2.0/win81-x64/helloWorld.pdb
+/Users/jchao100/Projects/helloWorld/helloWorld/obj/Release/netcoreapp2.0/win81-x64/helloWorld.csproj.CoreCompileInputs.cache
+/Users/jchao100/Projects/helloWorld/helloWorld/obj/Release/netcoreapp2.0/win81-x64/helloWorld.AssemblyInfoInputs.cache
+/Users/jchao100/Projects/helloWorld/helloWorld/obj/Release/netcoreapp2.0/win81-x64/helloWorld.AssemblyInfo.cs
+/Users/jchao100/Projects/helloWorld/helloWorld/obj/Release/netcoreapp2.0/win81-x64/helloWorld.dll
+/Users/jchao100/Projects/helloWorld/helloWorld/obj/Release/netcoreapp2.0/win81-x64/helloWorld.pdb
